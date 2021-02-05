@@ -22,6 +22,7 @@ const indexPage = `
       Random Number Web Service - the endpoint is here --> 
       <a href="/random-number">random-number</a> or <a href="/random-number?max=10">random-number?max=10</a>
     </p>
+	<p>:D</p>
   </body>
 </html>`;
 
